@@ -1,6 +1,7 @@
-site_name: Schwitzgebel Scribes
-theme;
+site_name: My Lecture Vault
+
+theme:
   name: material
 
 nav:
-    Home: index.md
+  - Home: index.md
