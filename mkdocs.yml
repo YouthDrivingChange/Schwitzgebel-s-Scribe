@@ -1,7 +1,7 @@
-site_name: My Lecture Vault
-
+site_name: Schwitzgebel's Scribe
 theme:
   name: material
 
-nav:
-  - Home: index.md
+plugins:
+  - search
+  - awesome-pages
