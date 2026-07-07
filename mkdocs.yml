@@ -1,5 +1,7 @@
-nav:
-  - Home: index.md
-  - How to Use: How-to-use/How-to-use-obby.md
-  - Fall 2026:
-      - Econ 101: Fall-2026/Econ-101/syllabus.md
+site_name: Schwitzgebel's Scribe
+theme:
+  name: material
+
+plugins:
+  - search
+  - awesome-pages
