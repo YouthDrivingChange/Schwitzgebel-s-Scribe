@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to use/How to use obby.md",
+                "file": "docs/How to use/How to use obby.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5be3e078cf80e043",
+  "active": "6c7b61d033757a4b",
   "lastOpenFiles": [
     "docs/Fall 2026/Econ 101/syllabus.md.md",
-    "How to use/How to use obby.md",
-    "How to use",
+    "docs/How to use/How to use obby.md",
+    "docs/How to use",
     "docs/Untitled",
     "docs/index.md",
     "docs/Fall 2026/Econ 101/Untitled.canvas",
