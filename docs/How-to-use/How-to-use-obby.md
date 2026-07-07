@@ -5,5 +5,8 @@
 *typing an asterisk will make a point italicized
 
 # Command P will let you access the commands
-## to push note type git: push
+
 ## to make it commit push do git: commit all changes
+## then do to push note to website type git: push
+gg
+
