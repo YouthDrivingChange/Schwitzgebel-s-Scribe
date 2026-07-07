@@ -3,3 +3,7 @@
 ### three hashtags is for a minor point that is bolded
 - one dash plus space is for a bullet point
 *typing an asterisk will make a point italicized
+
+# Command P will let you access the commands
+## to push note type git: push
+## to make it commit push do git: commit all changes
